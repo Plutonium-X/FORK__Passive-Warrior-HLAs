@@ -1,6 +1,6 @@
 BACKUP ~passive_warrior_hlas/backup~
 AUTHOR ~Thor Thunderfist~
-VERSION ~1.0.1~
+VERSION ~1.0.0~
 
 ALWAYS
 	INCLUDE ~passive_warrior_hlas/lib/patch/macros.tpa~
@@ -12,6 +12,11 @@ LANGUAGE
 	~en-us~
 	~passive_warrior_hlas/lang/en-us/weidu.tra~
 	~passive_warrior_hlas/lang/en-us/game.tra~
+LANGUAGE
+	~Francais~
+	~french~
+	~passive_warrior_hlas/lang/french/weidu.tra~
+	~passive_warrior_hlas/lang/french/game.tra~
 
 // Whirlwind Attack
 BEGIN @1001
