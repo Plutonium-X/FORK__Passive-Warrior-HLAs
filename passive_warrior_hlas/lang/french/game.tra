@@ -1,0 +1,32 @@
+@0 = ~Attaque tournoyante
+Cette capacité permet au guerrier de déchaîner une rafale de coups ultra-rapides. Cette capacité augmente en permanence le nombre d'attaques par round de 1.~
+@1 = ~Attaque tournoyante majeure
+Une version plus puissante d'Attaque tournoyante, Attaque tournoyante majeure donne au guerrier 1 attaque de plus par round.
+
+Nécessite : Attaque tournoyante~
+@2 = ~Coup mortel
+La capacité Coup mortel permet au guerrier de briser les défenses de n'importe quelle créature de moindre importance. Toute créature de 12ème niveau ou moins est instantanément tuée lorsqu'elle est touchée par un coup critique du guerrier.~
+@3 = ~Coup mortel majeur
+Comme Coup mortel, cette capacité permet au guerrier de vaincre ses ennemis d'un seul coup.  Toute créature a 5% de chances d'être tuée instantanément lorsqu'elle est touchée par un coup critique du guerrier.
+
+Nécessite : Coup mortel~
+@4 = ~Résistance magique
+Cette capacité permet au guerrier de puiser dans sa force intérieure pour combattre les effets de la magie malveillante. La résistance à la magie du guerrier est augmentée de 5%.~
+@5 = ~Frappe critique
+La connaissance intime qu'a un guerrier de haut niveau des points vitaux de ses adversaires lui permet de concentrer ses attaques pour frapper plus souvent les zones vitales. Avec cette capacité, les chances de faire un coup critique sont augmentées de 5% et les jets de toucher de 1 ne sont plus des ratés critiques.
+
+Nécessite : Attaque fulminante~
+@6 = ~Attaque fulminante
+La Puissance d'attaque permet au guerrier d'asséner des coups beaucoup plus puissants. Toutes les attaques du guerrier infligent +5 points de dégâts.~
+@7 = ~Robustesse
+En faisant appel à ses réserves de force cachées en cas de danger, un guerrier utilise l'aptitude Robustesse pour gagner 5% de résistance à toutes les formes de dégâts physiques.~
+@8 = ~Cri de guerre
+Avec un Cri de guerre, le guerrier émet un puissant hurlement qui inspire tous les alliés dans un rayon de 15 pieds. Pendant 1 round par 2 niveaux du guerrier, le Cri de guerre augmente la vitesse de déplacement et accorde un bonus de +2 aux jets de toucher, aux jets de dégâts et à la CA.~
+@9 = ~Punition
+Avec la capacité Punition le guerrier acquiert la possibilité de porter un coup puissant, étourdissant l'adversaire pendant 1 round sur tout coup critique.
+
+Les grandes créatures comme les dragons ou les géants ne sont pas étourdies.
+
+Nécessite : Attaque fulminante, Frappe critique~
+
+@508 = ~Cri de geurre~
