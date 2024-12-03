@@ -1,61 +1,61 @@
 # Passive Warrior HLAs
 
-The warrior's role in AD&D combat was much more passive than it is in modern RPGs.  For the most part, you would choose a target and attack; unique abilities were left to the spellcasters.
+Le rôle du guerrier dans les combats d'AD&D était beaucoup plus passif qu'il ne l'est dans les RPG modernes. La plupart du temps, vous choisissiez une cible et attaquiez; les capacités uniques étaient laissées aux lanceurs de sorts.
 
-The High Level Abilities (HLAs) introduced by Throne of Bhaal add complexity and micromanagement antithetical to the role of warriors, characters who have remained relatively passive participants in combat for the majority of 2 games.
+Les capacités de haut niveau (HLA) introduites par Throne of Bhaal ajoutent une complexité et une micro-gestion qui vont à l'encontre du rôle des guerriers, des personnages qui sont restés des participants relativement passifs au combat pendant la majorité des 2 jeux.
 
-This mod aims to reduce this added complexity by reworking the majority of activated warrior HLAs into passive bonuses.
+Ce mod vise à réduire cette complexité supplémentaire en transformant la majorité des HLA activées des guerriers en bonus passifs.
 
-## Whirlwind Attack
+## Tornade de fer
 
-Provides a permanent +1 attack per round.
+Confère +1 attaque par round.
 
-## Greater Whirlwind Attack
+## Tornade d'acier
 
-Provides an additional permanent +1 attack per round.
+Confère +1 attaque supplémentaire par round.
 
-*Requires: Whirlwind Attack*
+*Pré-requis : Tornade de fer.*
 
-## Deathblow
+## Coup mortel
 
-Critical Hits automatically slay enemies level 12 or below.
+Les coups critiques tuent automatiquement les ennemis de niveau 12 ou inférieur.
 
-## Greater Deathblow
+## Coup fatal
 
-Critical Hits have a 5% chance of automatically slaying any foe.
+Les coups critiques ont 5 % de chances de tuer automatiquement un ennemi.
 
-*Requires: Deathblow*
+*Pré-requis : Coup mortel.*
 
-## Hardiness
+## Résistance d'acier
 
-Permanently increases all Physical Resistances by 5%.
++5% à toutes les résistances physiques.
 
-May be taken up to 10 times in total.
+Peut être pris jusqu'à 10 fois au total.
 
-## Resist Magic
+## Mental d'acier
 
-Permanently increases Magic Resistance by 5%.
++5% à la résistance à la magie.
 
-May be taken up to 10 times in total.
+Peut être pris jusqu'à 10 fois au total.
 
-## Power Attack
+## Poing de fer
 
-Permanently increases all attack damage +5.
++5 points de dégats infligés par les attaques.
 
-## Critical Strike
+## Coup critique
 
-Increases Critical Range by 1 (if you would crit on 20, now crit on 19-20).  Also eliminates possibility of Critical Misses on attack rolls of 1.
+Portée des coups critiques +1 (si vous faisiez un coup critique sur 20, vous faites maintenant un coup critique sur 19-20).  Élimine également la possibilité de manquer un critique sur des jets d'attaque de 1.
 
-*Requires: Power Attack*
+*Pré-requis : Poing de fer.*
 
-## Smite
+## Poing d'acier
 
-Critical Hits stun foes for 1 round.
+Les coups critiques étourdissent les ennemis pendant 1 round.
 
-*Requires: Power Attack, Critical Strike*
+*Pré-requis : Coup critique, Poing de fer.*
 
-## War Cry
+## Cri de geurre
 
-For 1 round per 2 levels of the warrior, all allies in a 15-ft. radius gain increased movement speed and +2 bonuses to hit rolls, damage rolls, and AC.
+Pendant 1 round par 2 niveaux du guerrier, tous les alliés dans un rayon de 12 mètres gagnent une vitesse de déplacement accrue et des bonus de +2 aux jets de toucher, aux jets de dégâts et à la CA.
 
-*NB: Obviously this is not a passive bonus.  This is intended to be used alongside other pre-buffs so the warrior does not have to worry about activating it in the midst of battle.*
+*NB : ce n'est pas d'un bonus passif.  Il est destiné à être utilisé avec d'autres pré-buffles afin que le guerrier n'ait pas à se soucier de l'activer au milieu de la bataille.
