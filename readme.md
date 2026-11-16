@@ -59,3 +59,66 @@ Les coups critiques étourdissent les ennemis pendant 1 round.
 Pendant 1 round par 2 niveaux du guerrier, tous les alliés dans un rayon de 12 mètres gagnent une vitesse de déplacement accrue et des bonus de +2 aux jets de toucher, aux jets de dégâts et à la CA.
 
 *NB : ce n'est pas d'un bonus passif.  Il est destiné à être utilisé avec d'autres pré-buffles afin que le guerrier n'ait pas à se soucier de l'activer au milieu de la bataille.
+
+----------------
+# Passive Warrior HLAs
+
+The role of Fighters in AD&D combat was much more passive than it is in modern RPGs. Most of the time, you simply selected a target and attacked; unique abilities were left to spellcasters.
+
+The High-Level Abilities (HLAs) introduced in Throne of Bhaal add complexity and micromanagement that go against the role of Fighters, characters who remained relatively passive participants in combat throughout most of the two games.
+
+This mod aims to reduce this additional complexity by turning most of the Fighters' activated HLAs into passive bonuses.
+
+## Whirlwind Attack
+
+Grants +1 attack per round.
+
+## Greater Whirlwind Attack
+
+Grants an additional +1 attack per round.
+
+*Prerequisite: Whirlwind Attack.*
+
+## Deathblow
+
+Critical hits automatically kill enemies of level 12 or lower.
+
+## Greater Deathblow
+
+Critical hits have a 5% chance to instantly kill an enemy.
+
+*Prerequisite: Deathblow.*
+
+## Hardiness
+
++5% resistance to all physical damage types.
+
+Can be selected up to 10 times.
+
+## Resist Magic
+
++5% Magic Resistance.
+
+Can be selected up to 10 times.
+
+## Power Attack
+
++5 damage with all attacks.
+
+## Critical Strike
+
+Increases critical hit range by 1 (if you previously scored a critical hit on a roll of 20, you now score one on 19–20). Also removes the possibility of a critical miss on an attack roll of 1.
+
+*Prerequisite: Power Attack.*
+
+## Smite
+
+Critical hits stun enemies for 1 round.
+
+*Prerequisites: Critical Strike, Power Attack.*
+
+## War Cry
+
+For 1 round per 2 Fighter levels, all allies within a 12-meter radius gain increased movement speed and a +2 bonus to attack rolls, damage rolls and Armor Class.
+
+*Note: This is not a passive bonus. It is intended to be used alongside other pre-combat buffs so that the Fighter does not have to worry about activating it in the middle of battle.*
